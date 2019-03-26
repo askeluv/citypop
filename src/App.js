@@ -39,7 +39,7 @@ class App extends Component {
 
     return (
       <div className="outer">
-        <h1>citypop.fm</h1>
+        <h1>citypop.fun</h1>
         {this.state.doneLoading && 
         <div className="youtube">
           <YouTube

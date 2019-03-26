@@ -1,4 +1,4 @@
-# citypop.fm
+# citypop.fun
 
 🇯🇵 Your only radio station for Japanese citypop songs 🎵
 
