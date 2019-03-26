@@ -52,7 +52,7 @@ class App extends Component {
             <h4 className="submit"><a href="https://txd.typeform.com/to/f5k4pd">submit song</a></h4>
           </div>
           <footer>Made with <span role="img" aria-label="japan">🇯🇵</span> by &nbsp;
-            <a href="https://www.producthunt.com/@asvanevik" target="_blank" rel="noopener noreferrer">Alex</a>
+            <a href="https://www.producthunt.com/@asvanevik" target="_blank" rel="noopener noreferrer">@ASvanevik</a>
           </footer>
         </div>
         }
