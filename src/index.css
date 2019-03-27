@@ -14,8 +14,9 @@ body {
 h1 {
   color: #ad2333;
   background-color: white;
-  margin: 20%;
-  padding: 2%;
+  margin: 20% 10% 0 10%;
+  padding: 2% 1% 2% 0;
+  width: 75%;
 }
 
 h4 {
@@ -29,17 +30,17 @@ h4 {
 
 .youtube {
   align-items: center;
-  margin-top: 60%;
-}
-
-footer {
-  margin-top: 40%;
-  padding: 2%;
-  color:white;
+  margin-top: 52%;
 }
 
 .submit a {
   color: #ad2333;
+}
+
+footer {
+  margin-top: 35%;
+  padding: 2%;
+  color:white;
 }
 
 footer > a {
